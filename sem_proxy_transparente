@@ -1,0 +1,17 @@
+# ips que nao funcionam com proxy transparente: conectividade social, etc..
+#ip			descricao
+200.201.174.0/24	nao sei
+200.201.173.0/24	conectividade
+200.201.166.0/24	nao sei
+200.255.42.71		nao sei
+161.148.231.100		www.receita.fazenda.gov.br
+189.21.233.19		nao sei
+189.51.193.21		nao sei
+92.242.140.9		nao sei
+200.201.163.20		nao sei
+200.166.92.48		www.fazenda.mg.gov.br
+200.216.236.0/24	www.copasa.com.br
+200.98.216.228		centralonline.prosoft.com.br
+200.198.201.0/24	www.anvisa.gov.br
+54.232.215.163		telexfree.com
+54.218.5.32		www.telexfree.com

@@ -1,0 +1,5 @@
+# sintaxe correta:
+# porta		servico
+64333		ssh
+64334		sarg
+

@@ -1,0 +1,14 @@
+# portas permitidas para repasse quando originado da rede interna
+# porta		servico
+21		ftp
+80		http
+85		intranet fesp
+443		https
+1863		msn
+2095		webmail do site
+2631		conectividade social
+3128		proxy transparente
+3456		receita net (RFB)
+5222		gtalk
+8017		sintegra
+35001:35150	suporte remoto prosoft

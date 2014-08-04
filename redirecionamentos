@@ -1,0 +1,20 @@
+# INDICACAO DOS REDIRECIONAMENTOS
+# -------------------------------
+# descricao: Este recurso permite redirecionar requisicoes de uma 
+#            porta de entrada para um host da rede interna.
+# obs.: para cada novo redirecionamento, basta adicionar linhas
+#
+# obs2: as portas de entrada e destino informadas, devem ser liberadas
+#       pelo FW para repasse e input
+#
+# estas acoes sao realizadas no PRE-ROTEAMENTO
+
+#porta de entrada		IP de destino		porta de destino	motivo
+10100				192.168.100.101		3389			terminal service
+#10200				192.168.100.101		5800			vnc
+#10201				192.168.100.101		5900			vnc
+10202				192.168.100.97		64333			ssh
+#obs: na UNIVOX, tem que ligar e pedir para redirecionar. No caso eu ja pedi destas 4 portas e a 64333 (ssh)
+10200				192.168.100.71		80			webserver
+10201				192.168.100.71		10201			ssh
+

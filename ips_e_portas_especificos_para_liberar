@@ -1,0 +1,12 @@
+# liberacoes especiais, onde deve-se informar o IP e a porta ou grupo de portas a serem liberados
+#origem			destino			porta(s)	motivo da conexao
+#92.168.100.25		0/0			3478		porta que o everest usa para envio de nf-e
+192.168.100.25		0/0			25		porta que o everest usa para envio de nf-e
+192.168.100.25		0/0			587		porta que o everest usa para envio de nf-e
+0/0			186.215.92.131		8080		sicoob modulo cedente(envio arquivos)
+0/0			189.75.117.230		5006		sicoob modulo cedente(atualizacao)
+0/0			189.75.117.206		5006		sicoob
+0/0			200.198.239.0/24	3443		receitanetBX
+0/0			200.152.32.148		5017		CAT (INSS)
+0/0			200.152.32.148		5022		CAT (INSS)
+192.168.100.0/24	200.98.216.228		8080		centralonline (controle de licencas)

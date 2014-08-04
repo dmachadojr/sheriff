@@ -1,0 +1,7 @@
+# sintaxe correta
+# porta		servico
+64333		ssh
+64334		sarg
+3128		squid
+53		dns bind
+21		ftp
