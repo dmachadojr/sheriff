@@ -1,6 +1,3 @@
-sheriff
-=======
+sheriff firewall
 
-Sheriff Firewall
-
-Hello World !!!!!
+Funcionamento básico com script feito em bash, utilizando arquivos auxiliares de texto.
